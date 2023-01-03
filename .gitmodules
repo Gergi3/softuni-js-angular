@@ -1,0 +1,21 @@
+[submodule "intro-to-angular"]
+	path = intro-to-angular
+	url = git@github.com:Gergi3/intro-to-angular.git
+[submodule "angular-forms-directives"]
+	path = angular-forms-directives
+	url = git@github.com:Gergi3/angular-forms-directives.git
+[submodule "angular-modules-and-routing-lab"]
+	path = angular-modules-and-routing-lab
+	url = git@github.com:Gergi3/angular-modules-and-routing-lab.git
+[submodule "angular-ngrx"]
+	path = angular-ngrx
+	url = git@github.com:Gergi3/angular-ngrx.git
+[submodule "angular-pipes-interceptors-and-subjects"]
+	path = angular-pipes-interceptors-and-subjects
+	url = git@github.com:Gergi3/angular-pipes-interceptors-and-subjects.git
+[submodule "angular-components-workshop"]
+	path = angular-components-workshop
+	url = git@github.com:Gergi3/angular-components-workshop.git
+[submodule "intro-to-typescript"]
+	path = intro-to-typescript
+	url = git@github.com:Gergi3/intro-to-typescript.git
