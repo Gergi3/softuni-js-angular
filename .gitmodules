@@ -19,3 +19,6 @@
 [submodule "intro-to-typescript"]
 	path = intro-to-typescript
 	url = git@github.com:Gergi3/intro-to-typescript.git
+[submodule "angular-project-final"]
+	path = angular-project-final
+	url = git@github.com:Gergi3/angular-project-final.git
